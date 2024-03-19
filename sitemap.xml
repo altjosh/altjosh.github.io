@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://altjosh.github.io/</loc>
     <lastmod>2024-03-19T13:10:38-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://altjosh.github.io/posts/</loc>
     <lastmod>2024-03-19T13:10:38-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/synology-nvr/</loc>
+    <loc>http://altjosh.github.io/posts/synology-nvr/</loc>
     <lastmod>2023-12-12T15:52:25-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/test/</loc>
+    <loc>http://altjosh.github.io/posts/test/</loc>
     <lastmod>2023-11-01T13:01:10-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>http://altjosh.github.io/authors/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://altjosh.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>http://altjosh.github.io/series/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://altjosh.github.io/tags/</loc>
   </url>
 </urlset>
