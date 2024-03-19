@@ -17,9 +17,9 @@
     </item>
     <item>
       <title>OPNSense Router from E-Waste</title>
-      <link>http://altjosh.github.io/posts/test/</link>
+      <link>http://altjosh.github.io/posts/opnsense-router/</link>
       <pubDate>Wed, 01 Nov 2023 13:01:10 -0400</pubDate>
-      <guid>http://altjosh.github.io/posts/test/</guid>
+      <guid>http://altjosh.github.io/posts/opnsense-router/</guid>
       <description>The Why Link to heading My ISP provided router is terrible, it&amp;rsquo;s ancient and slow, while also being irreplaceable because of the authentication methods used by my ISP. My new router is ancient and fast, because it is a Dell XPS-8700 desktop. The ISP router still has to be used for IP pass-through, but the XPS handles the firewall, routing, DHCP, DNS, VLANs, WireGuard VPN Server and intrusion detection system (IDS).</description>
     </item>
   </channel>
