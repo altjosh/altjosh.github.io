@@ -6,8 +6,15 @@
     <description>Recent content on Josh Alt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Dec 2023 15:52:25 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 13:16:02 -0400</lastBuildDate>
     <atom:link href="http://altjosh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://altjosh.github.io/about/</link>
+      <pubDate>Mon, 18 Mar 2024 13:16:02 -0400</pubDate>
+      <guid>http://altjosh.github.io/about/</guid>
+      <description>What is this site? Link to heading This is a place where I write about software/hardware/projects/systems that I have worked on/with, acting as a portfolio to help showcase skills I posses to potential employers.</description>
+    </item>
     <item>
       <title>Self-Hosted NVR Security System</title>
       <link>http://altjosh.github.io/posts/synology-nvr/</link>
